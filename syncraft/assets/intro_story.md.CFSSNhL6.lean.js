@@ -1,0 +1,1 @@
+import{A as e,H as t,V as n,et as r}from"./chunks/framework.H6PnKRUW.js";var i=JSON.parse(`{"title":"讲故事","description":"","frontmatter":{},"headers":[],"relativePath":"intro/story.md","filePath":"intro/story.md"}`),a={name:`intro/story.md`};function o(e,i,a,o,s,c){return r(),n(`div`,null,[...i[0]||=[t("",14)]])}var s=e(a,[[`render`,o]]);export{i as __pageData,s as default};
